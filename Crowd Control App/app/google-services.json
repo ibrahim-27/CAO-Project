@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412897167383",
+    "project_id": "crowd-control-a5cf8",
+    "storage_bucket": "crowd-control-a5cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412897167383:android:a061c2c5fe942d7fd57452",
+        "android_client_info": {
+          "package_name": "com.example.crowdcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412897167383-aksrb3vl692f54u23nv4padudf43ldac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRN03BW480BXmOxb9Jv9Q4hcyhnmCLMJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412897167383-aksrb3vl692f54u23nv4padudf43ldac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
